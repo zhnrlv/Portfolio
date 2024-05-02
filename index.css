@@ -1,0 +1,173 @@
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+main {
+	padding: 20px;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+}
+
+.content {
+	width:50%;
+	text-align: center;
+}
+
+.image {
+	width:50%;
+	text-align: center;
+}
+
+.image img {
+	width: 270px;
+	height: 270px;
+	border-radius:40%;
+}
+
+.about {
+	margin-top: 50px;
+}
+
+h2 {
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+h3 {
+	font-size: 26px;
+	margin-bottom: 10px;
+	color: #333;
+}
+header{
+    display:flex;
+    text-align:center;
+    align-items: center ;
+    
+}
+a{
+    text-decoration:none;
+    color:white;
+    font-size:25px;
+    margin-left:100px;
+}   
+a:hover{
+    opacity:0.6;
+    color: blueviolet;
+}   
+.cl{
+    font-family: 'Rubik One', sans-serif;
+    text-transform: uppercase;
+    background: linear-gradient(77deg, rgba(4,13,71,1) 9%, rgba(235,0,246,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.cl2{
+    font-family: 'Rubik One', sans-serif;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, rgba(150,75,0,1) 7%, rgba(235,235,235,1) 96%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.cl3{
+    font-family: 'Rubik One', sans-serif;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, rgba(11,11,10,1) 40%, rgba(34,179,4,1) 64%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.cl4{
+    font-family: 'Rubik One', sans-serif;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, rgba(169,169,169,1) 40%, rgba(255,215,0,1) 64%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.cl5{
+    font-family: 'Rubik One', sans-serif;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, rgba(22,29,147,1) 43%, rgba(249,0,0,1) 55%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text2{
+    text-align: center;
+    font-size:40px;
+}
+.text{
+    text-align: center;
+    font-size:30px;
+}
+.skills{
+    margin-top:250px;
+}
+.chess{
+    display: flex;
+    align-items: center;
+}
+.button{
+    font-size: 26px;
+	color: #1e3293;
+}
+.stats{
+    margin-top:100px;
+    text-align: center;
+}
+.progress-container {
+    margin-left:50px;
+    width: 80%; 
+    height:20px;
+    background-color: #f1f1f1; 
+}
+.progress-bar {
+    width: 90%; 
+    height: 100%; 
+    background: linear-gradient(77deg, rgba(4,13,71,1) 9%, rgba(235,0,246,1) 100%);
+}
+.progress-bar2 {
+    width:30%; 
+    height: 100%; 
+    background: linear-gradient(77deg, rgba(4,13,71,1) 9%, rgba(235,0,246,1) 100%);
+}
+.df{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.w77{
+
+    width:77.59px;
+}
+.image1{
+    height:250px;
+    width:250px;
+    border-radius:40%;
+}
+.image2{
+    height:260px;
+    width:290px;
+}
+.image3{
+    height:200px;
+    width:600px;
+}
+.first{
+    width:50%;
+    text-align:center;
+}
+.achiv{
+    margin-top:100px;
+}
+.fizmat{
+    margin-top:100px;
+}
